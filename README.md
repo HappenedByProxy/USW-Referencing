@@ -19,21 +19,3 @@ This is not endorsed or backed by University of South Wales. Use at your own ris
 
 
 
-### Harvard Anglia
-
-(University of South Wales, 2021)
-
-University of South Wales, 2021. Referencing guides. [Online] 
-Available at: https://library.southwales.ac.uk/collections-subject-guides/referencing/
-[Accessed 29 November 2021].
-
-
-
-### USW
-
-(University of South Wales, 2021)
-
-University of South Wales (2021) Referencing guides. Available at: https://library.southwales.ac.uk/collections-subject-guides/referencing/ (Accessed: 29 November 2021).
-
-
-
