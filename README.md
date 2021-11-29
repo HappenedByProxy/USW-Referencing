@@ -21,8 +21,9 @@ This is not endorsed or backed by University of South Wales. Nor is it complete,
 
 ## Ways to help
 Please create pull issues that can fix the following things:
-Italicise corporate authors
-Add an e-book source
+
+- Italicise corporate authors
+- Add an e-book source
 
 ## Installation
 
