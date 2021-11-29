@@ -19,5 +19,7 @@ This is not endorsed or backed by University of South Wales. Nor is it complete,
 - Double colon after "Accessed"
 - Edition gains an "n" (edn instead of ed)
 
+## Installation
 
-
+Download the XLS and save it here:
+%appdata%\Microsoft\Bibliography\Style
