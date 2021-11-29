@@ -19,6 +19,9 @@ This is not endorsed or backed by University of South Wales. Nor is it complete,
 - Double colon after "Accessed"
 - Edition gains an "n" (edn instead of ed)
 
+## What it's missing:
+- Does not italicise corporate authors.
+
 ## Ways to help
 Please create pull issues that can fix the following things:
 
