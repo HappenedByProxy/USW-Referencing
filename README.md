@@ -19,6 +19,11 @@ This is not endorsed or backed by University of South Wales. Nor is it complete,
 - Double colon after "Accessed"
 - Edition gains an "n" (edn instead of ed)
 
+## Ways to help
+Please create pull issues that can fix the following things:
+Italicise corporate authors
+Add an e-book source
+
 ## Installation
 
 Download the XLS and save it here:
