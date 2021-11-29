@@ -6,7 +6,7 @@ Based on [USW Referencing](https://library.southwales.ac.uk/collections-subject-
   
 How it's different from Harvard:
 
-Square brackets [ ] are replaced with angle brackets ( )
-No comma after the author's name
-No full stop after the year
+Square brackets [ ] are replaced with angle brackets ( ) /n
+No comma after the author's name /n
+No full stop after the year /n
 
