@@ -10,7 +10,7 @@ This was not intended for use in any other subject, including Psychology, Histor
 
 This is not endorsed or backed by University of South Wales. Nor is it complete, as I primarily reference websites. 
 
-Use at your own risk. Read the full README so you lessen the risk of forgetting something.
+Use at your own risk. Read the full README and EXAMPLES.md so you lessen the risk of forgetting something.
 
 ## How it's different from Harvard:
 
