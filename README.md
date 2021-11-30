@@ -22,14 +22,16 @@ Use at your own risk. Read the full README so you lessen the risk of forgetting 
 - Edition gains an "n" (edn instead of ed)
 
 ## What it's missing:
-- Web pages with no authors need to be italicised. Example:
+- Web pages with no authors need to be italicised. 
+- Due to reasons out of my experience, my style will put "Anon." as the author. This is wrong. 
+- 
 (*Online Abertillery*, 2010)
 
 *Online Abertillery* (2010) Available at:
 http://www.abertillery.net/tales_ghost.html
 (Accessed: 19 July 2010).
 
-- Due to reasons out of my experience, my style will put "Anon." as the author. This is wrong. 
+
 
 ## Ways to help
 Please create pull issues that can fix the following things:
