@@ -8,7 +8,9 @@ This was intended for personal use during my applied cybersecurity course.
 
 This was not intended for use in any other subject, including Psychology, History, Chemistry, Pharmaceutical Science, Forensic Science and Law, as these subjects require their own different referencing style.
 
-This is not endorsed or backed by University of South Wales. Nor is it complete, as I primarily reference websites. Use at your own risk.
+This is not endorsed or backed by University of South Wales. Nor is it complete, as I primarily reference websites. 
+
+Use at your own risk. Read the full README so you lessen the risk of forgetting something.
 
 ## How it's different from Harvard:
 
