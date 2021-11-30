@@ -24,7 +24,7 @@ Use at your own risk. Read the full README and EXAMPLES.md so you lessen the ris
 ## What it's missing:
 - Web pages with no authors need to be italicised. 
 - Due to reasons out of my experience, my style will put "Anon." as the author. This is wrong. 
-- 
+- How it SHOULD look:
 (*Online Abertillery*, 2010)
 
 *Online Abertillery* (2010) Available at:
