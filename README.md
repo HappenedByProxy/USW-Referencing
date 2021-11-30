@@ -36,8 +36,8 @@ http://www.abertillery.net/tales_ghost.html
 ## Ways to help
 Please create pull issues that can fix the following things:
 
-- Italicise corporate authors
-- Add an e-book source
+- Italicise web pages with no authors.
+- Add an e-book source?
 
 ## Installation
 
