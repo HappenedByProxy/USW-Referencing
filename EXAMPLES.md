@@ -11,7 +11,7 @@ Available at: https://library.southwales.ac.uk/collections-subject-guides/refere
 
 (University of South Wales, 2021)
 
-University of South Wales* (2021) *Referencing guides.* Available at: https://library.southwales.ac.uk/collections-subject-guides/referencing/ (Accessed: 29 November 2021).
+University of South Wales (2021) *Referencing guides.* Available at: https://library.southwales.ac.uk/collections-subject-guides/referencing/ (Accessed: 29 November 2021).
 
 ## Website with no author
 
