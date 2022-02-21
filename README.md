@@ -2,7 +2,7 @@
 
 Edited from [HarvardAnglia.XSL](https://github.com/codingo/BibWord/blob/master/styles/HarvardAnglia.XSL)
   
-Based on [USW Referencing](https://library.southwales.ac.uk/collections-subject-guides/referencing/). Up-to-date as of 29th November 2021.
+Based on [USW Referencing](https://library.southwales.ac.uk/collections-subject-guides/referencing/). Up-to-date as of 29th November 2021. (Harvard_Referencing_2021_5.pdf)
 
 This was intended for personal use during my applied cybersecurity course.
 
