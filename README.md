@@ -20,6 +20,7 @@ Use at your own risk. Read the full README and EXAMPLES.md so you lessen the ris
 - No full stop after the year 
 - Double colon after "Accessed"
 - Edition gains an "n" (edn instead of ed)
+- No date is "no date" instead of "n.d."
 
 ## What it's missing:
 - Web pages with no authors need to be italicised. 
