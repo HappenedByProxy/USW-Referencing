@@ -156,41 +156,41 @@
       <separator>; </separator>
       <noauthor>-Artist-Author-BookAuthor-Compiler-Composer-Conductor-Counsel-Director-Editor-Interviewee-Interviewer-Inventor-Performer-ProducerName-Translator-Writer-"Anon."-</noauthor>
       <notitle>-Title-AlbumTitle-BookTitle-BroadcastTitle-InternetSiteTitle-PeriodicalTitle-PublicationTitle-ShortTitle-</notitle>
-      <noyear>-Year-YearAccessed-"n.d."-</noyear>
+      <noyear>-Year-YearAccessed-"no date"-</noyear>
       <source type="Placeholder">
         <format>{%CitationPrefix%}[[%Tag%]]{%CitationSuffix%}</format>
       </source>
       <source type="ArticleInAPeriodical">
-        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="Book">
-        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
 	  
 	   <!-- <source type="E-Book">
-        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
        </source> -->
 	  
       <source type="BookSection">
-        <format>{%CitationPrefix%}{%Author:1|Editor:1|BookAuthor:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|Editor:1|BookAuthor:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="ConferenceProceedings">
-        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|Editor:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="DocumentFromInternetSite">
-        <format>{%CitationPrefix%}{%Author:1|InternetSiteTitle|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|InternetSiteTitle|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="Film">
-        <format>{%CitationPrefix%}{%Title|ShortTitle|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Title|ShortTitle|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="InternetSite">
-        <format>{%CitationPrefix%}{%Author:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="JournalArticle">
-        <format>{%CitationPrefix%}{%Author:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
       <source type="Report">
-        <format>{%CitationPrefix%}{%Author:1|"Anon."%}{, %Year|"n.d."%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
+        <format>{%CitationPrefix%}{%Author:1|"Anon."%}{, %Year|"no date"%}{%YearSuffix%}{, %CitationPages:p.:pp.:a2%}{%CitationSuffix%}</format>
       </source>
     </citation>
     <bibliography>
@@ -207,26 +207,26 @@
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ %Title|ShortTitle%.}{ &lt;i&gt;%PeriodicalTitle%&lt;/i&gt;,}{ [%Medium%]}{ {%Day% }%Month:s%.}{ %Pages:p.:pp.:a2%}.{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ [Accessed{{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%]}.{ %Comments%.}</format>
+          <format>{%Author:2|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ %Title|ShortTitle%.}{ &lt;i&gt;%PeriodicalTitle%&lt;/i&gt;,}{ [%Medium%]}{ {%Day% }%Month:s%.}{ %Pages:p.:pp.:a2%}.{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ [Accessed{{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%]}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a%}</sortkey>
+        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a%}</sortkey>
       </source>
       <source type="Book">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|Editor:3|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ &lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.{ %Edition:o% edn.}}{ Translated by %Translator:5%.}{ [%Medium%]}{ %City|StateProvince|CountryRegion%{, %StateProvince|CountryRegion%{, %CountryRegion%}}{: %Publisher%}.}{ %Publisher%.}.{ %Comments%.}</format>
+          <format>{%Author:2|Editor:3|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ &lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.{ %Edition:o% edn.}}{ Translated by %Translator:5%.}{ [%Medium%]}{ %City|StateProvince|CountryRegion%{, %StateProvince|CountryRegion%{, %CountryRegion%}}{: %Publisher%}.}{ %Publisher%.}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a%}</sortkey>
+        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a%}</sortkey>
       </source>
 	  
 	    <!-- Unused, Word just refuses to acknowledge it's existance. <source type="E-Book">
         <column id="69">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|Editor:3|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ &lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.{ %Edition:o% edn.}}{ Translated by %Translator:5%.}{ [%Medium%]}{ %City|StateProvince|CountryRegion%{, %StateProvince|CountryRegion%{, %CountryRegion%}}{: %Publisher%}.}{ %Publisher%.}.{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;{ (Accessed: {{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}}.{ %Comments%.}</format>
+          <format>{%Author:2|Editor:3|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ &lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.{ %Edition:o% edn.}}{ Translated by %Translator:5%.}{ [%Medium%]}{ %City|StateProvince|CountryRegion%{, %StateProvince|CountryRegion%{, %CountryRegion%}}{: %Publisher%}.}{ %Publisher%.}.{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;{ (Accessed: {{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a%}</sortkey>
+        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a%}</sortkey>
       </source> -->
 	  
 	  
@@ -235,63 +235,63 @@
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|Editor:3|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ %Title|ShortTitle%.}{ In{ %Editor:6|BookAuthor:2%} &lt;i&gt;%BookTitle|ShortTitle%&lt;/i&gt;.{ %Edition:o% edn.}}{ Translated by %Translator:5%.}{ %City|StateProvince|CountryRegion%{, %StateProvince|CountryRegion%{, %CountryRegion%}}{: %Publisher%}.}{ %Publisher%.}{ Ch. %ChapterNumber%.}{ %Pages:p.:pp.:a2%.}{ %Comments%.}</format>
+          <format>{%Author:2|Editor:3|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ %Title|ShortTitle%.}{ In{ %Editor:6|BookAuthor:2%} &lt;i&gt;%BookTitle|ShortTitle%&lt;/i&gt;.{ %Edition:o% edn.}}{ Translated by %Translator:5%.}{ %City|StateProvince|CountryRegion%{, %StateProvince|CountryRegion%{, %CountryRegion%}}{: %Publisher%}.}{ %Publisher%.}{ Ch. %ChapterNumber%.}{ %Pages:p.:pp.:a2%.}{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a|BookTitle:a%}</sortkey>
+        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a|BookTitle:a%}</sortkey>
       </source>
 
       <source type="ConferenceProceedings">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|"Anon."%}{ %Year:r|"n.d."%{%YearSuffix%}}{ %Title|ShortTitle%.}{ In{ %Editor:3%} &lt;i&gt;%ConferenceName%&lt;/i&gt;.}{ %City|CountryRegion%{, %CountryRegion%}}{, {{%Day%} %Month:s%} %Year%.}{ %Publisher%}.{ %Comments%.}</format>
+          <format>{%Author:2|"Anon."%}{ %Year:r|"no date"%{%YearSuffix%}}{ %Title|ShortTitle%.}{ In{ %Editor:3%} &lt;i&gt;%ConferenceName%&lt;/i&gt;.}{ %City|CountryRegion%{, %CountryRegion%}}{, {{%Day%} %Month:s%} %Year%.}{ %Publisher%}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a%}</sortkey>
+        <sortkey>{%Author:0|Editor:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a%}</sortkey>
       </source>
 
       <source type="DocumentFromInternetSite">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|InternetSiteTitle|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ &lt;i&gt;%Title%&lt;/i&gt;.}{ %City|CountryRegion|ProductionCompany|Publisher%{, %CountryRegion%}{: %ProductionCompany|Publisher%}}{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ (Accessed{{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}.{ %Comments%.}</format>
+          <format>{%Author:2|InternetSiteTitle|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ &lt;i&gt;%Title%&lt;/i&gt;.}{ %City|CountryRegion|ProductionCompany|Publisher%{, %CountryRegion%}{: %ProductionCompany|Publisher%}}{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ (Accessed{{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|InternetSiteTitle:a|"Anon."%}{%Year|"n.d."%}{%Title:a%}</sortkey>
+        <sortkey>{%Author:0|InternetSiteTitle:a|"Anon."%}{%Year|"no date"%}{%Title:a%}</sortkey>
       </source>
 
       <source type="Film">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{&lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.}{ %Year|"n.d."%{%YearSuffix%}}{ [%Medium|"Film"%]}{ Directed by %Director:4%}{ %City|CountryRegion%{, %CountryRegion%}}{: %Publisher|ProductionCompany%}}{ %Publisher|ProductionCompany%}.{ %Comments%.}</format>
+          <format>{&lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.}{ %Year|"no date"%{%YearSuffix%}}{ [%Medium|"Film"%]}{ Directed by %Director:4%}{ %City|CountryRegion%{, %CountryRegion%}}{: %Publisher|ProductionCompany%}}{ %Publisher|ProductionCompany%}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Title:a|ShortTitle:a%}{%Year|"n.d."%}</sortkey>
+        <sortkey>{%Title:a|ShortTitle:a%}{%Year|"no date"%}</sortkey>
       </source>
 
       <source type="InternetSite">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|"Anon."%}{ (%Year|"n.d."%){%YearSuffix%}}{ &lt;i&gt;%Title|InternetSiteTitle%&lt;/i&gt;.}{ (%Version%)}{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ (Accessed:{{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}.{ %Comments%.}</format>
+          <format>{%Author:2|"Anon."%}{ (%Year|"no date"%){%YearSuffix%}}{ &lt;i&gt;%Title|InternetSiteTitle%&lt;/i&gt;.}{ (%Version%)}{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ (Accessed:{{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|"Anon."%}{%Year|"n.d."%}{%Title:a|InternetSiteTitle:a%}</sortkey>
+        <sortkey>{%Author:0|"Anon."%}{%Year|"no date"%}{%Title:a|InternetSiteTitle:a%}</sortkey>
       </source>
 
       <source type="JournalArticle">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ %Title|ShortTitle%.}{ &lt;i&gt;%JournalName%&lt;/i&gt;,}{ [%Medium%].{{%Day%} %Month:s%,}}{ %Volume%{(%Issue%)},}{ (%Issue%),}{ %Pages:p.:pp. :a2%.}{. %Comments%.}{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ (Accessed: {{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}.{ %Comments%.}</format>
+          <format>{%Author:2|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ %Title|ShortTitle%.}{ &lt;i&gt;%JournalName%&lt;/i&gt;,}{ [%Medium%].{{%Day%} %Month:s%,}}{ %Volume%{(%Issue%)},}{ (%Issue%),}{ %Pages:p.:pp. :a2%.}{. %Comments%.}{ Available at: &lt;u&gt;%URL:l%&lt;/u&gt;}{ (Accessed: {{ %DayAccessed%} %MonthAccessed:s%} %YearAccessed%)}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a%}</sortkey>
+        <sortkey>{%Author:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a%}</sortkey>
       </source>
 
       <source type="Report">
         <column id="1">
           <halign>left</halign>
           <valign>top</valign>
-          <format>{%Author:2|"Anon."%}{ %Year|"n.d."%{%YearSuffix%}}{ %StandardNumber%}{ &lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.}{ %ThesisType%.}{ %City|CountryRegion%{, %CountryRegion%}{: %Publisher|Institution%}}{ %Publisher|Institution%}.{ %Comments%.}</format>
+          <format>{%Author:2|"Anon."%}{ %Year|"no date"%{%YearSuffix%}}{ %StandardNumber%}{ &lt;i&gt;%Title|ShortTitle%&lt;/i&gt;.}{ %ThesisType%.}{ %City|CountryRegion%{, %CountryRegion%}{: %Publisher|Institution%}}{ %Publisher|Institution%}.{ %Comments%.}</format>
         </column>
-        <sortkey>{%Author:0|"Anon."%}{%Year|"n.d."%}{%Title:a|ShortTitle:a%}</sortkey>
+        <sortkey>{%Author:0|"Anon."%}{%Year|"no date"%}{%Title:a|ShortTitle:a%}</sortkey>
       </source>
     </bibliography>
     <namelists>
@@ -1275,7 +1275,7 @@
                 </xsl:variable>
 
                 <xsl:choose>
-                  <!-- Handle "or" strings in format; e.g.: {%Year|"n.d."%} -->
+                  <!-- Handle "or" strings in format; e.g.: {%Year|"no date"%} -->
                   <xsl:when test="starts-with($name, '&#x22;') and substring($name, string-length($name), 1) = '&#x22;'">
                     <xsl:value-of select="substring-before(substring-after($name, '&#x22;'), '&#x22;')"/>
                   </xsl:when>
@@ -1576,7 +1576,7 @@
       <!-- Check if the name is one of a valid parameter. -->
       <xsl:choose>
         <!-- If it is a valid parameter, stop the processing. -->
-        <!--   Remark: a quoted string is a valid parameter; e.g.: {%Year|"n.d."%} -->
+        <!--   Remark: a quoted string is a valid parameter; e.g.: {%Year|"no date"%} -->
         <xsl:when test="starts-with($name, '&#x22;') and substring($name, string-length($name), 1) = '&#x22;' and not(contains($used, concat('-', $name)))">
           <xsl:value-of select="$name"/>
         </xsl:when>
